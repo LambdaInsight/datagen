@@ -1,6 +1,6 @@
 # datagen
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to generate test data.
 
 ## Usage
 
@@ -8,8 +8,6 @@ FIXME
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 LambdaInsight & contributors
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
-# datagen
+Distributed under the MIT License.
