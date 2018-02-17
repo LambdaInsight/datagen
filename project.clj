@@ -6,4 +6,10 @@
   :dependencies [
     [org.clojure/clojure  "1.8.0"]
     [org.clojure/data.csv "0.1.4"]
-  ])
+    [org.clojure/tools.trace "0.7.9"]
+
+  ]
+  :repl-options {
+    :init-ns datagen.core
+  }
+)
